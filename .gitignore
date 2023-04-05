@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+*.env
+
+# IDE settings
+.vscode/
+*.pydevproject
+*.idea/
+*.egg-info/
+*.egg
+*.vagrant/
+
+# Logs and databases
+logs/
+*.log
+*.sqlite
+
+# Compiled Python libraries
+lib/
+dist/
+build/
+
+# Environment configuration files
+.env
+env/
+venv/
+
+# Other build artifacts
+*.bak
+*.swp
+*.tmp
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tgz
+*.rar
+*.7z
+*.exe
+*.dll
+*.so
+*.dylib
+*.bak
+*.log
+*.egg-info/
